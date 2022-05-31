@@ -1,0 +1,14 @@
+{
+  "name": "sesion10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "author": "Esteban VM",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
