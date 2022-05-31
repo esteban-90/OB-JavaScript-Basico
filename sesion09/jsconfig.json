@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "#logger": ["./logger/index.js"]
+        }
+    }
+}
