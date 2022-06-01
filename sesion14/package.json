@@ -1,0 +1,10 @@
+{
+  "name": "sesion14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Esteban VM",
+  "scripts": {
+    "start": "http-server ."
+  }
+}
