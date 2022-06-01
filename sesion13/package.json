@@ -1,0 +1,14 @@
+{
+  "name": "sesion13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Esteban VM",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
